@@ -13,7 +13,6 @@ cryptography==2.4.2
 cycler==0.10.0
 decorator==4.4.2
 Django==2.2b1
-django-cdnjs==2017.10.20.post2
 docopt==0.6.2
 Flask==2.0.2
 ftpclient==0.1
