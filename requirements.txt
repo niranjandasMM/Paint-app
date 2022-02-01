@@ -60,7 +60,7 @@ python-dotenv==0.10.1
 python-nmap==0.6.1
 pyttsx3==2.90
 pytz==2018.9
-pywin32==303
+pywin32==300
 PyYAML==6.0
 regex==2021.11.10
 requests==2.26.0
